@@ -26,11 +26,16 @@
             "group": "POSH-ICC",
             "pages": [
               "POSH-ICC/Purpose",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "POSH-ICC/Scope",
+              "POSH-ICC/Applicability",
+              "POSH-ICC/Definition",
+              "POSH-ICC/Policy-Guidelines",
+              "POSH-ICC/Grievance-redressal-mechanism",
+              "POSH-ICC/Internal-Complaints-Committee",
+              "POSH-ICC/Complaint-mechanism",
+              "POSH-ICC/Inquiry-Process",
+              "POSH-ICC/Confidentiality and Data Protection",
+              "POSH-ICC/Consequences of violation"
             ]
           }
         ]
