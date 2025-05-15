@@ -38,6 +38,19 @@
               "POSH-ICC/Consequences-of-violation",
               "POSH-ICC/Monitoring-and-Review"
             ]
+          
+        
+      },
+          {
+            "group": "Employee Handbook",
+            "pages": [
+              "employee-handbook/welcome",
+              "employee-handbook/code-of-conduct",
+              "employee-handbook/working-hours",
+              "employee-handbook/leave-policy",
+              "employee-handbook/benefits",
+              "employee-handbook/resignation-exit"
+            ]          
           }
         ]
       },
