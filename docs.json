@@ -62,6 +62,12 @@
               "workplace-policies/workplace-violence",
               "workplace-policies/supporting-victims"
             ]
+          },
+          {
+            "group":"Drug & Smoking policies",
+            "pages":[
+              "drug-and-smoking-policies/drug-free-workplace"
+            ]
           }
         ]
       },
