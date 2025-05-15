@@ -73,7 +73,7 @@
             ]
           },
           {
-            "groups":"Code of Conduct",
+            "group":"Code of Conduct",
             "pages": [
               "code-of-conduct/dress-code",
               "code-of-conduct/Conflict-of-Interest"
