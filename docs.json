@@ -53,6 +53,12 @@
               "employee-handbook/referrals",
               "employee-handbook/attendance"
             ]          
+          },
+          {
+            "group":"Workplace Polices",
+            "pages":[
+              "workplace-policies/Confidentiality-and-data-protection"
+            ]
           }
         ]
       },
