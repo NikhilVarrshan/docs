@@ -79,6 +79,12 @@
               "code-of-conduct/Conflict-of-Interest",
               "code-of-conduct/moonlighting"
             ]
+          },
+          {
+            "group":"Cyber Security and Digital Devices",
+            "pages":[
+              "cybersecurity-and-digitaldevices/internet-usage"
+            ]
           }
         ]
       },
