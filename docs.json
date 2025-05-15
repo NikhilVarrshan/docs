@@ -57,7 +57,10 @@
           {
             "group":"Workplace Polices",
             "pages":[
-              "workplace-policies/Confidentiality-and-data-protection"
+              "workplace-policies/Confidentiality-and-data-protection",
+              "workplace-policies/workplace-harassment",
+              "workplace-policies/workplace-violence",
+              "workplace-policies/supporting-victims"
             ]
           }
         ]
