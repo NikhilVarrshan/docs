@@ -69,6 +69,14 @@
               "drug-and-smoking-policies/drug-free-workplace",
               "drug-and-smoking-policies/prescription-drugs",
               "drug-and-smoking-policies/dealing-with-addiction"
+              
+            ]
+          },
+          {
+            "groups":"Code of Conduct",
+            "pages": [
+              "code-of-conduct/dress-code",
+              "code-of-conduct/Conflict-of-Interest"
             ]
           }
         ]
