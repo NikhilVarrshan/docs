@@ -52,50 +52,54 @@
       },
       {
         "tab": "Employee Handbook",
-        "pages": [
-          "employee-handbook/welcome",
-          "employee-handbook/getting-to-know-our-company",
-          "employee-handbook/Employment-Policies",
-          "employee-handbook/equal-opportunity-employment",
-          "employee-handbook/recruitment-and-selection-process",
-          "employee-handbook/background-checks",
-          "employee-handbook/referrals",
-          "employee-handbook/attendance"
-        ]
-      },
-      {
-        "tab": "Workplace Policies",
-        "pages": [
-          "workplace-policies/Confidentiality-and-data-protection",
-          "workplace-policies/workplace-harassment",
-          "workplace-policies/workplace-violence",
-          "workplace-policies/supporting-victims"
-        ]
-      },
-      {
-        "tab": "Drug & Smoking Policies",
-        "pages": [
-          "drug-and-smoking-policies/drug-free-workplace",
-          "drug-and-smoking-policies/prescription-drugs",
-          "drug-and-smoking-policies/dealing-with-addiction"
-        ]
-      },
-      {
-        "tab": "Code of Conduct",
-        "pages": [
-          "code-of-conduct/dress-code",
-          "code-of-conduct/Conflict-of-Interest",
-          "code-of-conduct/moonlighting"
-        ]
-      },
-      {
-        "tab": "Cyber Security and Digital Devices",
-        "pages": [
-          "cybersecurity-and-digitaldevices/internet-usage",
-          "cybersecurity-and-digitaldevices/cell-phone",
-          "cybersecurity-and-digitaldevices/corporate-email",
-          "cybersecurity-and-digitaldevices/social-media"
-          
+        "groups": [
+          {
+            "group": "Welcome & Introduction",
+            "pages": [
+              "employee-handbook/welcome",
+              "employee-handbook/getting-to-know-our-company",
+              "employee-handbook/Employment-Policies",
+              "employee-handbook/equal-opportunity-employment",
+              "employee-handbook/recruitment-and-selection-process",
+              "employee-handbook/background-checks",
+              "employee-handbook/referrals",
+              "employee-handbook/attendance"
+            ]
+          },
+          {
+            "group": "Workplace Policies",
+            "pages": [
+              "workplace-policies/Confidentiality-and-data-protection",
+              "workplace-policies/workplace-harassment",
+              "workplace-policies/workplace-violence",
+              "workplace-policies/supporting-victims"
+            ]
+          },
+          {
+            "group": "Drug & Smoking Policies",
+            "pages": [
+              "drug-and-smoking-policies/drug-free-workplace",
+              "drug-and-smoking-policies/prescription-drugs",
+              "drug-and-smoking-policies/dealing-with-addiction"
+            ]
+          },
+          {
+            "group": "Code of Conduct",
+            "pages": [
+              "code-of-conduct/dress-code",
+              "code-of-conduct/Conflict-of-Interest",
+              "code-of-conduct/moonlighting"
+            ]
+          },
+          {
+            "group": "Cyber Security and Digital Devices",
+            "pages": [
+              "cybersecurity-and-digitaldevices/internet-usage",
+              "cybersecurity-and-digitaldevices/cell-phone",
+              "cybersecurity-and-digitaldevices/corporate-email",
+              "cybersecurity-and-digitaldevices/social-media"
+            ]
+          }
         ]
       },
       {
