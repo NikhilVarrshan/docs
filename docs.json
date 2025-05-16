@@ -99,6 +99,19 @@
               "cybersecurity-and-digitaldevices/corporate-email",
               "cybersecurity-and-digitaldevices/social-media"
             ]
+          },
+          {
+            "group": "Staff relationships",
+            "pages": [
+              "staff-relationships/Fraternization",
+              "staff-relationships/dating-colleagues",
+              "staff-relationships/dating-managers",
+              "staff-relationships/friendships-at-work",
+              "staff-relationships/staff-relationship-with-other-organizations",
+              "staff-relationships/employment-of-relatives",
+              "staff-relationships/workplace-visitors",
+              "staff-relationships/solicitation-and-distribution"
+            ]
           }
         ]
       },
