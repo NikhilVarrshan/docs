@@ -114,9 +114,23 @@
             ]
           },
           {
-            "group":"compensation and development",
+            "group":"Compensation and Development",
             "pages":[
               "compensation-and-development/payroll"
+            ]
+          },
+          {
+            "group":"Benefits and perks",
+            "pages":[
+              "benefits-and-perks/staff-health",
+              "benefits-and-perks/Work-from-home",
+              "benefits-and-perks/remote-working",
+              "benefits-and-perks/staff-expenses",
+              "benefits-and-perks/parking",
+              "benefits-and-perks/company-issued-equipment",
+              "benefits-and-perks/theft-and-damage-to-company-equipment",
+              "benefits-and-perks/security-of-company-issued-devices",
+              "benefits-and-perks/working-hours"
             ]
           }
         ]
