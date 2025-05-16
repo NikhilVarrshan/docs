@@ -112,6 +112,12 @@
               "staff-relationships/workplace-visitors",
               "staff-relationships/solicitation-and-distribution"
             ]
+          },
+          {
+            "group":"compensation and development",
+            "pages":[
+              "compensation-and-development/payroll"
+            ]
           }
         ]
       },
