@@ -132,6 +132,17 @@
               "benefits-and-perks/security-of-company-issued-devices",
               "benefits-and-perks/working-hours"
             ]
+          },
+          {
+            "groups":"Holidays",
+            "pages":[
+              "holidays/working-on-holiday",
+              "holidays/paid-time-off-PTO",
+              "holidays/sick-leave",
+              "holidays/bereavement-leaves",
+              "holidays/earned-privilege-leave",
+              "holidays/maternity-leave"
+            ]
           }
         ]
       },
