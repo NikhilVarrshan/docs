@@ -36,7 +36,10 @@
       {
         "tab": "POSH-ICC",
         "pages": [
-          "POSH-ICC/Purpose",
+          {
+          "page":"POSH-ICC/Purpose",
+          "label":"Purpose"
+          },
           "POSH-ICC/Scope",
           "POSH-ICC/Applicability",
           "POSH-ICC/Definition",
