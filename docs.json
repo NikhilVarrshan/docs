@@ -134,7 +134,7 @@
             ]
           },
           {
-            "groups":"Holidays",
+            "group":"Holidays",
             "pages":[
               "holidays/working-on-holiday",
               "holidays/paid-time-off-PTO",
