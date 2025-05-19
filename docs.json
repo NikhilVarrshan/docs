@@ -143,6 +143,16 @@
               "holidays/earned-privilege-leave",
               "holidays/maternity-leave"
             ]
+          },
+          {
+            "group": "Leaving our company",
+            "pages": [
+              "leaving-our-company/progressive-discipline",
+              "leaving-our-company/resignation",
+              "leaving-our-company/forced-resignation",
+              "leaving-our-company/termination",
+              "leaving-our-company/references"
+            ]
           }
         ]
       },
