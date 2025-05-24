@@ -114,14 +114,14 @@
             ]
           },
           {
-            "group":"Compensation and Development",
-            "pages":[
+            "group": "Compensation and Development",
+            "pages": [
               "compensation-and-development/payroll"
             ]
           },
           {
-            "group":"Benefits and perks",
-            "pages":[
+            "group": "Benefits and perks",
+            "pages": [
               "benefits-and-perks/staff-health",
               "benefits-and-perks/Work-from-home",
               "benefits-and-perks/remote-working",
@@ -134,8 +134,8 @@
             ]
           },
           {
-            "group":"Holidays",
-            "pages":[
+            "group": "Holidays",
+            "pages": [
               "holidays/working-on-holiday",
               "holidays/paid-time-off-PTO",
               "holidays/sick-leave",
@@ -176,16 +176,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Blog",
-          "href": "https://zemuria.com/blog/",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "footer": {
     "socials": {
