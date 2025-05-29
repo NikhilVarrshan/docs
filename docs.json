@@ -37,7 +37,7 @@
         "tab": "POSH-ICC",
         "pages": [
           "POSH-ICC/Purpose",
-          "POSH-ICC/Scope",
+          "POSH-ICC/Scope-details",
           "POSH-ICC/Applicability",
           "POSH-ICC/Definition",
           "POSH-ICC/Policy-Guidelines",
@@ -155,26 +155,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
       }
     ],
     "global": {
@@ -195,4 +175,3 @@
     }
   }
 }
-
