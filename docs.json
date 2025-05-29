@@ -23,6 +23,7 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "disableIcons": true,
     "tabs": [
       {
         "tab": "Culture at Zemuria",
