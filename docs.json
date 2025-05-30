@@ -13,7 +13,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://zemuria.com/"
+      "href": "https://zemuria.com"
     }
   },
   "colors": {
