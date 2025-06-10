@@ -150,10 +150,10 @@
       {
         "tab": "Culture at Zemuria",
         "pages": [
-          "Culture-at-Zemuria/index",
-          "Culture-at-Zemuria/quickstart",
-          "Culture-at-Zemuria/development",
-          "Culture-at-Zemuria/Conclusion"
+          "culture-at-zemuria/index",
+          "culture-at-zemuria/quickstart",
+          "culture-at-zemuria/development",
+          "culture-at-zemuria/Conclusion"
         ]
       }
     ],
