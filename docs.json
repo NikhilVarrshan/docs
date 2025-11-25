@@ -30,7 +30,7 @@
           {
             "group": "Welcome & Introduction",
             "pages": [
-              "employee-handbook/welcome",
+              "employee-handbook/welcome-intro",
               "employee-handbook/getting-to-know-our-company",
               "employee-handbook/Employment-Policies",
               "employee-handbook/equal-opportunity-employment",
@@ -150,7 +150,7 @@
       {
         "tab": "Culture at Zemuria",
         "pages": [
-          "culture-at-zemuria/welcome",
+          "culture-at-zemuria/welcome-welcome",
           "culture-at-zemuria/quickstart",
           "culture-at-zemuria/development",
           "culture-at-zemuria/Conclusion"
