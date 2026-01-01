@@ -109,11 +109,11 @@
             ]
           },
           {
-            "group": "Holidays",
+            "group": "leave-attendance-policy",
             "pages": [
-              "holidays/working-on-holiday",
-              "holidays/bereavement-leaves",
-              "holidays/maternity-leave"
+              "leave-attendance-policy/working-on-holiday",
+              "leave-attendance-policy/bereavement-leaves",
+              "leave-attendance-policy/maternity-leave"
             ]
           },
           {
