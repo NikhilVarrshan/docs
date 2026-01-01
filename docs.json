@@ -45,7 +45,8 @@
               "workplace-policies/Confidentiality-and-data-protection",
               "workplace-policies/workplace-harassment",
               "workplace-policies/workplace-violence",
-              "workplace-policies/supporting-victims"
+              "workplace-policies/supporting-victims",
+              "workplace-policies/enforcement-and-accountability"
             ]
           },
           {
@@ -53,7 +54,8 @@
             "pages": [
               "drug-and-smoking-policies/drug-free-workplace",
               "drug-and-smoking-policies/prescription-drugs",
-              "drug-and-smoking-policies/dealing-with-addiction"
+              "drug-and-smoking-policies/dealing-with-addiction",
+              "drug-and-smoking-policies/drug-testing"
             ]
           },
           {
@@ -67,6 +69,7 @@
           {
             "group": "Cyber Security and Digital Devices",
             "pages": [
+              "cybersecurity-and-digitaldevices/introduction",
               "cybersecurity-and-digitaldevices/internet-usage",
               "cybersecurity-and-digitaldevices/cell-phone",
               "cybersecurity-and-digitaldevices/corporate-email",
