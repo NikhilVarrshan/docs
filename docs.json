@@ -101,6 +101,7 @@
           {
             "group": "Benefits and perks",
             "pages": [
+              "benefits-and-perks/purpose-and-principles",
               "benefits-and-perks/staff-health",
               "benefits-and-perks/Work-from-home",
               "benefits-and-perks/remote-working",
@@ -109,7 +110,8 @@
               "benefits-and-perks/company-issued-equipment",
               "benefits-and-perks/theft-and-damage-to-company-equipment",
               "benefits-and-perks/security-of-company-issued-devices",
-              "benefits-and-perks/working-hours"
+              "benefits-and-perks/working-hours",
+              "benefits-and-perks/compliance"
             ]
           },
           {
@@ -129,7 +131,22 @@
               "leaving-our-company/termination",
               "leaving-our-company/references"
             ]
-          }
+          },
+          {
+             "group": "Complaints, Grievance Redressal & Statutory Disclosures",
+             "pages": [
+              "complaints-grievance-redressal-and-statutory-disclosures/purpose-and-scope",
+              "complaints-grievance-redressal-and-statutory-disclosures/definition-and-principles",
+              "complaints-grievance-redressal-and-statutory-disclosures/what-you-can-raise-under-this-policy",
+              "complaints-grievance-redressal-and-statutory-disclosures/what-must-be-routed-elsewhere",
+              "complaints-grievance-redressal-and-statutory-disclosures/how-to-submit-a-complaintor-grievance",
+               "complaints-grievance-redressal-and-statutory-disclosures/intake-review-and-resolution-process",
+               "complaints-grievance-redressal-and-statutory-disclosures/interim-measures",
+               "complaints-grievance-redressal-and-statutory-disclosures/confidentiality-and-non-retaliation",
+               "complaints-grievance-redressal-and-statutory-disclosures/false-or-malicious-complaints",
+               "complaints-grievance-redressal-and-statutory-disclosures/escalation-and-appeal",
+               "complaints-grievance-redressal-and-statutory-disclosures/statutory-disclosures",
+               "complaints-grievance-redressal-and-statutory-disclosures/recordkeeping-and-updates"
         ]
       },
       {
@@ -147,6 +164,8 @@
           "POSH-ICC/Confidentiality-and-Data-Protection",
           "POSH-ICC/Consequences-of-violation",
           "POSH-ICC/Monitoring-and-Review"
+        ]
+      }
         ]
       },
       {
