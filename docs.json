@@ -181,6 +181,22 @@
               "social-media-external-communication/approval-process",
               "social-media-external-communication/violations-policy-review"
             ]
+          },
+          {
+
+           "group": "Timesheet & Work Certification",
+            "pages": [
+              "timesheet-work-certification/purpose-scope",
+              "timesheet-work-certification/productive-work-certification",
+              "timesheet-work-certification/contractors-consultants-external-service-providers",
+              "timesheet-work-certification/standard-work-expectations",
+              "timesheet-work-certification/manager-accountability",
+              "timesheet-work-certification/prohibited-practices",
+              "timesheet-work-certification/audits-and-monitoring",
+              "timesheet-work-certification/overtime-clarification",
+              "timesheet-work-certification/impact-on-performance-discipline-exit",
+              "timesheet-work-certification/complaints-disputes-record-review"
+            ]
           }
           
         ]
