@@ -148,6 +148,8 @@
                "complaints-grievance-redressal-and-statutory-disclosures/statutory-disclosures",
                "complaints-grievance-redressal-and-statutory-disclosures/recordkeeping-and-updates"
         ]
+      }
+        ]
       },
       {
         "tab": "POSH-ICC",
@@ -165,9 +167,8 @@
           "POSH-ICC/Consequences-of-violation",
           "POSH-ICC/Monitoring-and-Review"
         ]
-      }
-        ]
       },
+          
       {
         "tab": "Culture at Zemuria",
         "pages": [
