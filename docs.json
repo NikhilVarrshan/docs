@@ -197,6 +197,15 @@
               "timesheet-work-certification/impact-on-performance-discipline-exit",
               "timesheet-work-certification/complaints-disputes-record-review"
             ]
+          },
+          {
+              "group": "Minimum Operational Quorum & High Impact Day Leave Policy",
+            "pages": [
+              "minimum-operational-quorum/purpose-and-scope",
+              "minimum-operational-quorum/definitions",
+              "minimum-operational-quorum/general-rule",
+              "minimum-operational-quorum/quorum-structure"
+            ]
           }
           
         ]
