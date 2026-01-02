@@ -148,7 +148,23 @@
                "complaints-grievance-redressal-and-statutory-disclosures/statutory-disclosures",
                "complaints-grievance-redressal-and-statutory-disclosures/recordkeeping-and-updates"
         ]
-      }
+      },
+          {
+
+            "group": "Intellectual Property, Inventions & Proprietary Rights Policy",
+            "pages": [
+              "intellectual-property-policy/purpose-and-scope",
+              "intellectual-property-policy/definitions",
+              "intellectual-property-policy/ownership-of-ip-and-invention",
+              "intellectual-property-policy/confidentiality-and-use-restrictions",
+              "intellectual-property-policy/publications-blogs-technical-content",
+              "intellectual-property-policy/attribution-credit-portfolio-representation",
+              "intellectual-property-policy/open-source-contributions",
+              "intellectual-property-policy/post-employment-obligations",
+              "intellectual-property-policy/enforcement-and-administration"
+              
+            ]
+          }
         ]
       },
       {
