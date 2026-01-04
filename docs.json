@@ -40,7 +40,7 @@
             ]
           },
           {
-            "group": "Workplace Policies",
+            "group": "2. Workplace Policies",
             "pages": [
               "workplace-policies/Confidentiality-and-data-protection",
               "workplace-policies/workplace-harassment",
@@ -50,7 +50,7 @@
             ]
           },
           {
-            "group": "Drug & Smoking Policies",
+            "group": "3. Drug & Smoking Policies",
             "pages": [
               "drug-and-smoking-policies/drug-free-workplace",
               "drug-and-smoking-policies/prescription-drugs",
@@ -59,7 +59,7 @@
             ]
           },
           {
-            "group": "Code of Conduct",
+            "group": "4. Code of Conduct",
             "pages": [
               "code-of-conduct/dress-code",
               "code-of-conduct/Conflict-of-Interest",
@@ -67,7 +67,7 @@
             ]
           },
           {
-            "group": "Cyber Security and Digital Devices",
+            "group": "5. Cyber Security and Digital Devices",
             "pages": [
               "cybersecurity-and-digitaldevices/introduction",
               "cybersecurity-and-digitaldevices/internet-usage",
@@ -77,7 +77,7 @@
             ]
           },
           {
-            "group": "Staff relationships",
+            "group": "6. Staff relationships",
             "pages": [
               "staff-relationships/purpose-and-scope",
               "staff-relationships/definition-general-principles",
@@ -92,14 +92,14 @@
             ]
           },
           {
-            "group": "Compensation and Development",
+            "group": "7. Compensation and Development",
             "pages": [
               "compensation-and-development/payroll",
               "compensation-and-development/performance-appraisal"
             ]
           },
           {
-            "group": "Benefits and perks",
+            "group": "8. Benefits and perks",
             "pages": [
               "benefits-and-perks/purpose-and-principles",
               "benefits-and-perks/staff-health",
@@ -113,7 +113,7 @@
             ]
           },
           {
-            "group": "Leave and Attendance policy",
+            "group": "9. Leave and Attendance policy",
             "pages": [
               "leave-attendance-policy/working-on-holiday",
               "leave-attendance-policy/bereavement-leaves",
@@ -121,7 +121,7 @@
             ]
           },
           {
-            "group": "Leaving our company",
+            "group": "10. Leaving our company",
             "pages": [
               "leaving-our-company/progressive-discipline",
               "leaving-our-company/resignation",
@@ -131,7 +131,7 @@
             ]
           },
           {
-             "group": "Complaints, Grievance Redressal & Statutory Disclosures",
+             "group": "11. Complaints, Grievance Redressal & Statutory Disclosures",
              "pages": [
               "complaints-grievance-redressal-and-statutory-disclosures/purpose-and-scope",
               "complaints-grievance-redressal-and-statutory-disclosures/definition-and-principles",
@@ -149,7 +149,7 @@
       },
           {
 
-            "group": "Intellectual Property, Inventions & Proprietary Rights Policy",
+            "group": "12. Intellectual Property, Inventions & Proprietary Rights Policy",
             "pages": [
               "intellectual-property-policy/purpose-and-scope",
               "intellectual-property-policy/definitions",
@@ -164,7 +164,7 @@
             ]
           },
           {
-               "group": "Social Media External Communication",
+               "group": "13. Social Media External Communication",
             "pages": [
               "social-media-external-communication/purpose-and-scope-availability",
               "social-media-external-communication/general-principles",
@@ -182,7 +182,7 @@
           },
           {
 
-           "group": "Timesheet & Work Certification",
+           "group": "14. Timesheet & Work Certification",
             "pages": [
               "timesheet-work-certification/purpose-scope",
               "timesheet-work-certification/productive-work-certification",
@@ -197,7 +197,7 @@
             ]
           },
           {
-              "group": "Minimum Operational Quorum & High Impact Day Leave Policy",
+              "group": "15. Minimum Operational Quorum & High Impact Day Leave Policy",
             "pages": [
               "minimum-operational-quorum/purpose-and-scope",
               "minimum-operational-quorum/definitions",
