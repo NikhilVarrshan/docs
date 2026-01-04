@@ -28,7 +28,7 @@
         "tab": "Employee Handbook",
         "groups": [
           {
-            "group": "Welcome & Introduction",
+            "group": "1. Welcome & Introduction",
             "pages": [
               "employee-handbook/welcome-intro",
               "employee-handbook/getting-to-know-our-company",
