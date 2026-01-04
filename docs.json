@@ -117,9 +117,8 @@
             "pages": [
               "leave-attendance-policy/working-on-holiday",
               "leave-attendance-policy/bereavement-leaves",
-              "leave-attendance-policy/maternity-and-parental-leave-policy",
-              "leave-attendance-policy/notice-period-buyout",
-              "leave-attendance-policy/exit-formalities-and-final-settlement"
+              "leave-attendance-policy/maternity-and-parental-leave-policy"
+              
             ]
           },
           {
@@ -129,7 +128,9 @@
               "leaving-our-company/resignation",
               "leaving-our-company/forced-resignation",
               "leaving-our-company/termination",
-              "leaving-our-company/references"
+              "leaving-our-company/references",
+              "leaving-our-company/notice-period-buyout",
+              "leaving-our-company/exit-formalities-and-final-settlement"
             ]
           },
           {
